@@ -17,3 +17,5 @@ Expected Result: Appropriate error message should be displayed.
 Test Case 13: Login with empty username
 Test Data: Empty username + valid password
 Expected Result: Username validation message should be displayed.
+
+Test Case 14: Verify login with valid credentials
