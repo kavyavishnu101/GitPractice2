@@ -8,7 +8,7 @@ Testcase 3
 Click on Login button
 
 Testcase 4
-analyze the successful message
+analyze the successful message - master conflict
 
 Test Case 12: Login with invalid username
 Test Data: Invalid username + valid password
