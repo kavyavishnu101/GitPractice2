@@ -1,0 +1,11 @@
+Testcase 1:
+Enter user name
+
+Testcase 2
+Enter Password
+
+Testcase 3
+Click on Login button
+
+Testcase 4
+analyze the successful message
